@@ -1,0 +1,5 @@
+C:\Users\banfu\OneDrive\Documents\UKP\Perkuliahan\Semester 4\Grafika Komputer\Projek\UTS GRAFKOM JADI\ProjectUTS-Grafkom-master\ProjectUTS-Grafkom\obj\Debug\net6.0\ProjectUTS-Grafkom.csproj.AssemblyReference.cache
+C:\Users\banfu\OneDrive\Documents\UKP\Perkuliahan\Semester 4\Grafika Komputer\Projek\UTS GRAFKOM JADI\ProjectUTS-Grafkom-master\ProjectUTS-Grafkom\obj\Debug\net6.0\ProjectUTS-Grafkom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banfu\OneDrive\Documents\UKP\Perkuliahan\Semester 4\Grafika Komputer\Projek\UTS GRAFKOM JADI\ProjectUTS-Grafkom-master\ProjectUTS-Grafkom\obj\Debug\net6.0\ProjectUTS-Grafkom.AssemblyInfoInputs.cache
+C:\Users\banfu\OneDrive\Documents\UKP\Perkuliahan\Semester 4\Grafika Komputer\Projek\UTS GRAFKOM JADI\ProjectUTS-Grafkom-master\ProjectUTS-Grafkom\obj\Debug\net6.0\ProjectUTS-Grafkom.AssemblyInfo.cs
+C:\Users\banfu\OneDrive\Documents\UKP\Perkuliahan\Semester 4\Grafika Komputer\Projek\UTS GRAFKOM JADI\ProjectUTS-Grafkom-master\ProjectUTS-Grafkom\obj\Debug\net6.0\ProjectUTS-Grafkom.csproj.CoreCompileInputs.cache
